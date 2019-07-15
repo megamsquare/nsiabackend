@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d63fad2fa2704bf1b9688b10af95140b" Name="Diagram1" ZoomLevel="77">
+        <EntityTypeShape EntityType="NSIAMobileModel.C__MigrationHistory" Width="1.5" PointX="5.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.AntTable" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.AspNetRole" Width="1.5" PointX="0.75" PointY="91.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="56.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="59.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.AspNetUser" Width="1.5" PointX="3" PointY="84.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.AuditLog" Width="1.5" PointX="5.25" PointY="61.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.BurglaryPayment" Width="1.5" PointX="7.5" PointY="83.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.BurglaryQuote" Width="1.5" PointX="5.25" PointY="70.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.BurglaryRenewal" Width="1.5" PointX="12.75" PointY="78.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.BurglaryUserPolicy" Width="1.5" PointX="9.75" PointY="75.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.BusinessClass" Width="1.5" PointX="8" PointY="72.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Carmake" Width="1.5" PointX="9.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Carmodel" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ClaimsBurglary" Width="1.5" PointX="0.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ClaimsDocument" Width="1.5" PointX="29" PointY="90.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ClaimsFire" Width="1.5" PointX="2.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ClaimsLife" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ClaimsMarine" Width="1.5" PointX="4.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ClaimsMotor" Width="1.5" PointX="6.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Clause" Width="1.5" PointX="11" PointY="92.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Client" Width="1.5" PointX="5.25" PointY="75.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.CustDocument" Width="1.5" PointX="5.25" PointY="78.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.CustDocumentMotor" Width="1.5" PointX="8.25" PointY="90.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DeviceClaim" Width="1.5" PointX="5.25" PointY="86.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DeviceDocument" Width="1.5" PointX="5.25" PointY="90.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DevicePayment" Width="1.5" PointX="7.5" PointY="95.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DeviceQuote" Width="1.5" PointX="5.25" PointY="99.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DeviceRenewal" Width="1.5" PointX="15.75" PointY="101.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DeviceUserPolicy" Width="1.5" PointX="10.5" PointY="95" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvHomeType" Width="1.5" PointX="8.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvPersonalOption" Width="1.5" PointX="10.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvPolicy" Width="1.5" PointX="11.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvPremiumDetail" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvSubscriberIdentificationType" Width="1.5" PointX="12.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvSubscriber" Width="1.5" PointX="8.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvSubscriberTitle" Width="1.5" PointX="13.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvTransactionPaymentsDetail" Width="1.5" PointX="10.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.DstvTransaction" Width="1.5" PointX="12.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.EducationTable" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Endownment" Width="1.5" PointX="0.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ExchangeRate" Width="1.5" PointX="2.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.FirePayment" Width="1.5" PointX="10.5" PointY="99.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.FireQuote" Width="1.5" PointX="5.25" PointY="111.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.FireRenewal" Width="1.5" PointX="12.75" PointY="103.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.FireUserPolicy" Width="1.5" PointX="18.75" PointY="102" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Group" Width="1.5" PointX="5.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.GroupRole" Width="1.5" PointX="4.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.hhh" Width="1.5" PointX="14.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.InvestLinkFile" Width="1.5" PointX="5.25" PointY="116.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.InvestLinkQuote" Width="1.5" PointX="8" PointY="67.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.InvestPayment" Width="1.5" PointX="10.25" PointY="84.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.InvRenewal" Width="1.5" PointX="23.75" PointY="93.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.InvUserPolicy" Width="1.5" PointX="18.5" PointY="85.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.LGA" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.LifePayment" Width="1.5" PointX="13.25" PointY="89.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.LifeProduct" Width="1.5" PointX="14" PointY="73.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.LifeQuote" Width="1.5" PointX="16.25" PointY="71.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.LifeRenewal" Width="1.5" PointX="21.5" PointY="89.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.LifeUpload" Width="1.5" PointX="5.25" PointY="131.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.LifeUserPolicy" Width="1.5" PointX="18.5" PointY="96.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.MarineFile" Width="1.5" PointX="5.25" PointY="135.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.MarinePayment" Width="1.5" PointX="13.25" PointY="83.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.MarineQuote" Width="1.5" PointX="13.25" PointY="96.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.MarineRenewal" Width="1.5" PointX="18.5" PointY="90.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.MarineUserPolicy" Width="1.5" PointX="15.5" PointY="95.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.MSME_MSME" Width="1.5" PointX="5.25" PointY="151.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.MyPool" Width="1.5" PointX="5.25" PointY="157" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.NIIDMotor" Width="1.5" PointX="5.25" PointY="95" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.NsiaAdmin" Width="1.5" PointX="14.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.NsiaDstvAdmin" Width="1.5" PointX="15.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.PaymentDetail" Width="1.5" PointX="16.25" PointY="89.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.PolicyPool" Width="1.5" PointX="10.25" PointY="80.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ProfileImage" Width="1.5" PointX="5.25" PointY="173" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Promo" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Quote" Width="1.5" PointX="16.25" PointY="80.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Renewal" Width="1.5" PointX="21.5" PointY="84" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.ResponseLog" Width="1.5" PointX="5.25" PointY="185" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Role" Width="1.5" PointX="5.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Segment" Width="1.5" PointX="16.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.SiriusMotorRenewal" Width="1.5" PointX="5.25" PointY="188.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.StatesDB" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.sysdiagram" Width="1.5" PointX="16.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.TermRateAnnual" Width="1.5" PointX="14.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.TermRateSingle" Width="1.5" PointX="16.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.UserClaim" Width="1.5" PointX="26.75" PointY="90.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.UserGroup" Width="1.5" PointX="8" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.UserPolicy" Width="1.5" PointX="24.5" PointY="88" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.UserRole" Width="1.5" PointX="8" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Vehicle" Width="1.5" PointX="8.25" PointY="101.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.VehicleDetail" Width="1.5" PointX="6" PointY="107" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.WebClaim" Width="1.5" PointX="2.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.AggregatedCounter" Width="1.5" PointX="17.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Counter" Width="1.5" PointX="4.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Hash" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Job" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.JobParameter" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.JobQueue" Width="1.5" PointX="6.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.List" Width="1.5" PointX="18.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Schema" Width="1.5" PointX="18.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Server" Width="1.5" PointX="18.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.Set" Width="1.5" PointX="18.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NSIAMobileModel.State" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="NSIAMobileModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryPayment_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryQuote_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryRenewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryUserPolicy_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Client_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_CustDocument_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_CustDocumentMotor_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceClaim_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceDocument_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DevicePayment_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceQuote_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceRenewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceUserPolicy_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_ErrorLog_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FirePayment_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireQuote_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireRenewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireUserPolicy_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvestLinkFile_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvestPayment_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvRenewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvUserPolicy_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifePayment_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeRenewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeUpload_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeUserPolicy_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineFile_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarinePayment_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineQuote_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineRenewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineUserPolicy_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MSME_MSME_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MyPool_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_NIIDMotor_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_PaymentDetail_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_PolicyPool_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_ProfileImage_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Quote_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Renewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_ResponseLog_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_SiriusMotorRenewal_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_UserClaims_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_UserPolicy_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Vehicle_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryPayment_BurglaryQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryRenewal_BurglaryPayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryUserPolicy_BurglaryPayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryRenewal_BurglaryQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryUserPolicy_BurglaryQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_BurglaryRenewal_BurglaryUserPolicy" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_PolicyPool_BusinessClass" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Quote_BizClass" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_ClaimsDocument_UserClaims" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineQuote_Clause" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_CustDocumentMotor_Quote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DevicePayment_DeviceQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceRenewal_DevicePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceRenewal_DeviceQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_DeviceUserPolicy_DeviceQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FirePayment_FireQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireRenewal_FirePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireUserPolicy_FirePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireRenewal_FireQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireUserPolicy_FireQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_FireRenewal_FireUserPolicy" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_UserGroup_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvestPayment_InvestLinkQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvRenewal_InvQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvUserPolicy_InvPayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvRenewal_InvPayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvRenewal_InvUserPolicy" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_InvUserPolicy_InvQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.State_LGA" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifePayment_LifeQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeRenewal_LifePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeUserPolicy_LifePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeQuote_LifeProduct" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeRenewal_LifeQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeUserPolicy_LifeQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_LifeRenewal_LifeUserPolicy" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarinePayment_MarineQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineRenewal_MarinePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineUserPolicy_MarinePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineRenewal_MarineQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineUserPolicy_MarineQuote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_MarineRenewal_MarineUserPolicy" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_NIIDMotor_Quote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_PaymentDetail_Quote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Renewal_PaymentDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_UserPolicy_PaymentDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Quote_Vehicle" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Renewal_Quote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_UserPolicy_Quote" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Renewal_UserPolicy" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_UserRole_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_UserClaims_UserPolicy" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_Vehicle_VehicleDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_HangFire_JobParameter_Job" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.FK_HangFire_State_Job" ManuallyRouted="false" />
+        <AssociationConnector Association="NSIAMobileModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
